@@ -1,8 +1,8 @@
 # Julia_Pluto_Notebooks
 A set of Pluto Notebooks that can be used to learn Julia
 
-These notebooks were adapted by Chris Waveru, who used a set of notebooks for python created by Professor Erin Carrier.
-This set of "Pluto" notebooks that can help you explore Julia if you are interested. 
+These notebooks were adapted by Chris Waveru, who used as the basis a set of notebooks for python created by Professor Erin Carrier.
+This set of "Pluto" notebooks will help you explore Julia, if you are interested. 
 
 Julia is available on Windows, Macs and Linux.
 
